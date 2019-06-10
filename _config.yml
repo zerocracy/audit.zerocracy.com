@@ -1,0 +1,26 @@
+title: audit.zerocracy.com
+email: team@zerocarcy.com
+description: >
+  Let us review the quality of the source code
+  your software team delivers and let you know
+  what are the most critical issues
+baseurl: ""
+url: "https://audit.zerocracy.com"
+twitter_username: 0crat
+github_username: zerocracy
+markdown: kramdown
+author:
+  name: "Yegor Bugayenko"
+  email: yegor@zerocracy.com
+encoding: utf-8
+timezone: America/San_Francisco
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+  - LICENSE.txt
+  - .travis.yml
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false
