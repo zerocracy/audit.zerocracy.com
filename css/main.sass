@@ -1,0 +1,81 @@
+---
+---
+
+$switch-mobile: 480
+$switch-tablet: 800
+$switch-wide: 1300
+
+@mixin mobile
+    @media all and ( min-width: 0 ) and ( max-width: ( $switch-mobile - 1 ) * 1px )
+        @content
+
+@mixin tablet
+    @media all and ( min-width: $switch-mobile * 1px ) and ( max-width: ( $switch-tablet - 1 ) * 1px )
+        @content
+
+@mixin wide
+    @media all and ( min-width: $switch-tablet * 1px )
+        @content
+
+.slogan
+    font-size: 2.7em
+    line-height: 1.1em
+    font-weight: normal
+
+.light
+    color: gray
+
+.block-left
+    margin: 6em auto
+    width: 90%
+
+    div:first-child
+        padding: 0 3em 0 0
+        text-align: right
+        width: 50%
+        float: left
+
+    div:last-child
+        padding: 3em 0 0 0
+        text-align: left
+        width: 50%
+        float: left
+        font-weight: normal
+
+.block-right
+    margin: 6em auto
+    width: 90%
+
+    div:first-child
+        padding: 3em 0 0 0
+        text-align: center
+        width: 50%
+        float: left
+
+    div:last-child
+        padding: 0 0 0 3em
+        text-align: left
+        width: 50%
+        float: left
+        font-weight: normal
+
+.logo
+    border-radius: 50%
+    width: 100px
+
+.clear
+    clear: both
+
+.feedback
+    text-align: left
+    padding-top: 1em
+    border-left: 0
+
+    @include wide()
+        width: 200px
+
+    footer
+        padding: 1em
+
+footer
+    margin-top: 10em
