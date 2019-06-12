@@ -17,67 +17,132 @@ $switch-wide: 1300
     @media all and ( min-width: $switch-tablet * 1px )
         @content
 
+section
+
+    @include tablet()
+        padding: 4em
+
+    @include mobile()
+        padding: 1.5em
+
+
 .slogan
     font-size: 3em
     padding: 0 2em
     line-height: 1.1em
     font-weight: normal
 
-.light
-    color: gray
+    @include tablet()
+        font-size: 2em
+        padding: 0 .5em
+        font-weight: bold
+
+
+    @include mobile()
+        font-size: 2em
+        padding: 0 .5em
+        font-weight: bold
+
 
 .block-left
     margin: 6em auto
     width: 90%
 
+    @include mobile()
+        margin: 3em auto
+
     div:first-child
-        padding: 0 3em 0 0
+        float: left
         text-align: right
         width: 50%
-        float: left
+        padding: 0 3em 0 0
+
+        @include tablet()
+            width: 100%
+            padding: 0
+            text-align: center
+
+        @include mobile()
+            width: 100%
+            padding: 0
+            text-align: center
 
     div:last-child
-        padding: 3em 0 0 0
         text-align: left
-        width: 50%
         float: left
         font-weight: normal
+        padding: 3em 0 0 0
+        width: 50%
+
+        @include tablet()
+            width: 100%
+            padding: 0
+
+        @include mobile()
+            width: 100%
+            padding: 0
+
 
 .block-right
     margin: 6em auto
     width: 90%
 
+    @include mobile()
+        margin: 3em auto
+
     div:first-child
-        padding: 3em 0 0 0
         text-align: center
-        width: 50%
         float: left
+        padding: 3em 0 0 0
+        width: 50%
+
+        @include tablet()
+            width: 100%
+            padding: 0
+
+        @include mobile()
+            width: 100%
+            padding: 0
 
     div:last-child
-        padding: 0 0 0 3em
         text-align: left
-        width: 50%
         float: left
         font-weight: normal
+        padding: 0 0 0 3em
+        width: 50%
+
+        @include tablet()
+            width: 100%
+            padding: 0
+            text-align: center
+
+        @include mobile()
+            width: 100%
+            padding: 0
+            text-align: center
 
 .logo
     border-radius: 50%
     width: 200px
     margin: 4em 0
 
+    @include mobile()
+        margin: 0
+        width: 100px
+
+
 .clear
     clear: both
 
-.feedback
-    text-align: left
-    padding-top: 1em
-    border-left: 0
+.video
+    height: 230px
 
-    @include wide()
-        width: 200px
+    @include tablet()
+        height: 300px
 
-    footer
-        padding: 1em
+    @include mobile()
+        height: 180px
+
 
 footer
     margin-top: 10em
