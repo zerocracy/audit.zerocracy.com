@@ -45,7 +45,13 @@ description: |
       your software product has and what are the risks and threats
       you should pay attention to.
     </p>
-    <form action="sent.html" method="get">
+    <form method="POST" action="https://www.mailanes.com/subscribe?list=58">
+      <input type="hidden" name="source" value="audit.zerocracy.com"/>
+      <input type="hidden" name="referrer" id="referrer" value=""/>
+      <input type="hidden" name="utm_source" id="utm_source" value=""/>
+      <input type="hidden" name="utm_medium" id="utm_medium" value=""/>
+      <input type="hidden" name="utm_campaign" id="utm_campaign" value=""/>
+      <input type="hidden" name="redirect" value="http://audit.zerocracy.com/sent.html"/>
       <input name='email' placeholder='Your Email' type='text' size="25" maxlength="150" autofocus="true"/>
       <button type='submit'>Request a Quote</button>
     </form>
