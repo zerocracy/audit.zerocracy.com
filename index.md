@@ -60,7 +60,7 @@ This will protect your project from possible disasters.
 {:.left}
 ![img](https://www.yegor256.com/images/andreea/podcast.svg "img")
 
-## We work remotely and never talk to your team
+## We work <ins>remotely</ins> and never talk to your team
 
 There is no need for us to communicate with your
 programmers, ask any questions, or disturb them anyhow.
