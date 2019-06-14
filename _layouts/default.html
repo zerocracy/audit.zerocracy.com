@@ -6,9 +6,9 @@
     <meta charset="utf-8"/>
     <meta name="description" content="{{ page.description | split: ' ' | join: ' ' }}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="/css/main.css"/>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
     <link href='https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="/css/main.css"/>
     <link rel="shortcut icon" href="//www.0crat.com/png/logo.png"/>
     <title>{{ page.title }}</title>
     {% if page.date %}
@@ -27,39 +27,57 @@
   </head>
   <body>
     <section>
-      {{ content }}
+      <header>
+        <nav>
+          <ul>
+            <li>
+              <img src='http://www.0crat.com/svg/logo.svg'/>
+            </li>
+            <li>
+              Zerocracy Audit<br/>
+              Is For Those Who Care
+            </h1>
+          </ul>
+        </nav>
+      </header>
+      <article>
+        {{ content }}
+      </article>
+      <footer>
+        <nav>
+          <ul>
+            <li>
+              <a href='https://twitter.com/0crat'>Twitter</a>
+            </li>
+            <li>
+              <a href='https://instagram.com/zerocracy/'>Instagram</a>
+            </li>
+            <li>
+              <a href='https://www.facebook.com/zerocracy/'>Facebook</a>
+            </li>
+            <li>
+              <a href='https://www.youtube.com/channel/UCxZAzmY_OPw40I1-YStWqhw'>YouTube</a>
+            </li>
+            <li>
+              <a href='https://t.me/zerocracy'>Telegram</a>
+            </li>
+          </ul>
+        </nav>
+        <nav>
+          <ul>
+            <li>
+              <a href='mailto:audit@zerocracy.com'>audit@zerocracy.com</a>
+            </li>
+          </ul>
+        </nav>
+        <nav>
+          <ul>
+            <li>
+              Palo Alto, CA
+            </li>
+          </ul>
+        </nav>
+      </footer>
     </section>
-    <footer>
-      <nav>
-        <ul>
-          <li>
-            <a href='https://twitter.com/0crat'>Twitter</a>
-          </li>
-          <li>
-            <a href='https://instagram.com/zerocracy/'>Instagram</a>
-          </li>
-          <li>
-            <a href='https://www.facebook.com/zerocracy/'>Facebook</a>
-          </li>
-          <li>
-            <a href='https://www.youtube.com/channel/UCxZAzmY_OPw40I1-YStWqhw'>YouTube</a>
-          </li>
-        </ul>
-      </nav>
-      <nav>
-        <ul>
-          <li>
-            <a href='mailto:audit@zerocracy.com'>audit@zerocracy.com</a>
-          </li>
-        </ul>
-      </nav>
-      <nav>
-        <ul>
-          <li>
-            Palo Alto, CA
-          </li>
-        </ul>
-      </nav>
-    </footer>
   </body>
 </html>

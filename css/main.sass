@@ -1,146 +1,48 @@
 ---
 ---
 
-$switch-mobile: 480
-$switch-tablet: 800
-$switch-wide: 1300
+$width: 768px
 
 @mixin mobile
-    @media all and ( min-width: 0 ) and ( max-width: ( $switch-mobile - 1 ) * 1px )
-        @content
+  @media all and (max-width: $width)
+    @content
 
-@mixin tablet
-    @media all and ( min-width: $switch-mobile * 1px ) and ( max-width: ( $switch-tablet - 1 ) * 1px )
-        @content
+header
+  li
+    text-align: left
+    font-size: 1.4em
+    vertical-align: middle
+    color: gray
+  img
+    width: 64px
+    height: 64px
+    vertical-align: middle
 
-@mixin wide
-    @media all and ( min-width: $switch-tablet * 1px )
-        @content
+article
+  border: 0
 
-section
-    @include tablet()
-        padding: 4em
+h2
+  font-size: 1.8em
+  font-weight: bold
 
-    @include mobile()
-        padding: 1.5em
+hr
+  clear: both
+  border: 0
+  margin: 6em
 
+.right
+  float: right
+  width: 60%
+  margin-left: 2em
+  +mobile
+    display: none
 
-.slogan
-    font-size: 3em
-    padding: 0 2em
-    line-height: 1.1em
-    font-weight: normal
+.left
+  float: left
+  width: 60%
+  margin-right: 2em
+  +mobile
+    display: none
 
-    @include tablet()
-        font-size: 2em
-        padding: 0 .5em
-        font-weight: bold
-
-    @include mobile()
-        font-size: 2em
-        padding: 0 .5em
-        font-weight: bold
-
-.block-left
-    margin: 18em auto
-    width: 90%
-    clear: both
-
-    @include mobile()
-        margin: 3em auto
-
-    div:first-child
-        float: left
-        text-align: right
-        width: 50%
-        padding: 0 3em 0 0
-
-        @include tablet()
-            width: 100%
-            padding: 0
-            text-align: center
-
-        @include mobile()
-            width: 100%
-            padding: 0
-            text-align: center
-
-    div:last-child
-        text-align: left
-        float: left
-        font-weight: normal
-        padding: 3em 0 0 0
-        width: 50%
-
-        @include tablet()
-            width: 100%
-            padding: 0
-
-        @include mobile()
-            width: 100%
-            padding: 0
-
-.block-right
-    margin: 6em auto
-    width: 90%
-    clear: both
-
-    @include mobile()
-        margin: 3em auto
-
-    div:first-child
-        text-align: center
-        float: left
-        padding: 3em 0 0 0
-        width: 50%
-
-        @include tablet()
-            width: 100%
-            padding: 0
-
-        @include mobile()
-            width: 100%
-            padding: 0
-
-    div:last-child
-        text-align: left
-        float: left
-        font-weight: normal
-        padding: 0 0 0 3em
-        width: 50%
-
-        @include tablet()
-            width: 100%
-            padding: 0
-            text-align: center
-
-        @include mobile()
-            width: 100%
-            padding: 0
-            text-align: center
-
-.logo
-    border-radius: 50%
-    width: 200px
-    margin: 4em 0
-
-    @include mobile()
-        margin: 0
-        width: 100px
-
-.clear
-    clear: both
-
-.video
-    height: 230px
-
-    @include tablet()
-        height: 300px
-
-    @include mobile()
-        height: 180px
-
-
-footer
-    margin-top: 10em
-    clear: both
+.wide
+  text-align: center
