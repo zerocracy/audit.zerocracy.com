@@ -8,7 +8,7 @@ description: |
 ---
 
 {:.right}
-![Front image](https://www.yegor256.com/images/2014/11/rate-open-source-contribution.png "Front Image")
+![Front image](https://www.yegor256.com/images/andreea/coder.svg "Front Image")
 
 ## Let us audit your software and identify <ins>technical debt</ins>
 
