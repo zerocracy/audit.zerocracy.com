@@ -10,7 +10,7 @@ description: |
 {:.right}
 ![Front image](https://www.yegor256.com/images/andreea/coder.svg "Front Image")
 
-## Let us audit your software and identify <ins>technical debt</ins>
+# Let us audit your software and identify <ins>technical debt</ins>
 
 You are planning to invest in a new startup?
 You got an on-going project?
@@ -22,7 +22,7 @@ in order to prevent problems earlier.
 <hr/>
 
 {:.wide}
-## Identify your technical debt on a regular basis
+# Do it on a regular basis
 
 {:.wide}
 Hire our experts to provide you
@@ -39,8 +39,8 @@ you should pay attention to.
   <input type="hidden" name="utm_medium" id="utm_medium" value=""/>
   <input type="hidden" name="utm_campaign" id="utm_campaign" value=""/>
   <input type="hidden" name="redirect" value="http://audit.zerocracy.com/sent.html"/>
-  <input name='email' placeholder='Your Email' type='text' size="25" maxlength="150" autofocus="true"/>
-  <button type='submit'>Request a Quote</button>
+  <input name='email' placeholder='Your Email' type='text' size="25" maxlength="150" />
+  <button type='submit'>Let's Do It</button>
 </form>
 
 <hr/>
@@ -49,7 +49,7 @@ you should pay attention to.
 <iframe class='video' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
 allowfullscreen frameborder='0' src='https://www.youtube.com/embed/TxYi7J0vKC8' width='100%' height='320px'></iframe>
 
-## Don't wait until programmers mess everything up
+# Don't wait until programmers <ins>mess</ins> everything up
 
 Hire our high-caliber software engineers, who work for Zerocracy,
 for a few hours to get your repositories audited.
@@ -60,7 +60,7 @@ This will protect your project from possible disasters.
 {:.left}
 ![img](https://www.yegor256.com/images/andreea/podcast.svg "img")
 
-## We work <ins>remotely</ins> and never talk to your team
+# We work <ins>remotely</ins> and never talk to your team
 
 There is no need for us to communicate with your
 programmers, ask any questions, or disturb them anyhow.
@@ -70,9 +70,34 @@ logs, your database, and we review what we see, remotely.
 <hr/>
 
 {:.wide}
-## We work with most tech stacks
+# We work with most tech stacks
 
 {:.wide}
 Our experts understand Java, Ruby, JavaScript, PHP, Python and C#.
 If you have something else, we can find the right talents
 to review your project too.
+
+<hr/>
+
+{:.right}
+![Front image](https://www.yegor256.com/images/andreea/writing.svg "Cost Image")
+
+# It takes five days and costs <ins>$2,560</ins>
+
+There are [three types](http://www.zerocracy.com/audits.html) of audits:
+quick, standard, and detailed. Most probably your project
+needs a standard one, which will give you enough food for though
+and will help your team improve. You pay by PayPal, VISA/MasterCard,
+or Bitcoins.
+
+<hr/>
+
+{:.wide}
+# We sign the NDA before we start
+
+{:.wide}
+Each reviewer will sign a Non-Disclosure Agreement with you,
+confirming that all data received during the review
+will be destroyed when the audit is done.
+
+<hr/>
