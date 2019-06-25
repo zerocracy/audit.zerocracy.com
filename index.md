@@ -25,7 +25,7 @@ in order to prevent problems earlier.
 # Do it on a regular basis
 
 {:.wide}
-Hire our experts to provide you
+Hire [our experts](https://www.0crat.com/team) to provide you
 an <ins>independent opinion</ins> about what your team is doing.
 Our reviewers will tell you what kind of technical issues
 your software product has and what are the <ins>risks</ins> and <ins>threats</ins>
@@ -73,7 +73,8 @@ logs, your database, and we review what we see, remotely.
 # We work with most tech stacks
 
 {:.wide}
-Our experts understand Java, Ruby, JavaScript, PHP, Python and C#.
+[Our experts](https://www.0crat.com/team)
+understand Java, Ruby, JavaScript, PHP, Python and C#.
 If you have something else, we can find the right talents
 to review your project too.
 
