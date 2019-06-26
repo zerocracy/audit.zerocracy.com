@@ -85,7 +85,7 @@ will be destroyed when the audit is done.
 
 There are [three types](http://www.zerocracy.com/audits.html) of audits:
 quick, standard, and detailed. Most probably your project
-needs a standard one, which will give you enough food for though
+needs a standard one, which will give you enough food for thought
 and will help your team improve. You pay by PayPal, VISA/MasterCard,
 or Bitcoins.
 
