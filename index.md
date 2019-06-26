@@ -31,29 +31,28 @@ Our reviewers will tell you what kind of technical issues
 your software product has and what are the <ins>risks</ins> and <ins>threats</ins>
 you should pay attention to.
 
-{:.wide}
-<form method="POST" action="https://www.mailanes.com/subscribe?list=58">
-  <input type="hidden" name="source" value="audit.zerocracy.com"/>
-  <input type="hidden" name="referrer" id="referrer" value=""/>
-  <input type="hidden" name="utm_source" id="utm_source" value=""/>
-  <input type="hidden" name="utm_medium" id="utm_medium" value=""/>
-  <input type="hidden" name="utm_campaign" id="utm_campaign" value=""/>
-  <input type="hidden" name="redirect" value="http://audit.zerocracy.com/sent.html"/>
-  <input name='email' placeholder='Your Email' type='text' size="25" maxlength="150" />
-  <button type='submit'>Let's Do It</button>
-</form>
-
 <hr/>
 
-{:.right}
+{:.left}
 <iframe class='video' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
 allowfullscreen frameborder='0' src='https://www.youtube.com/embed/TxYi7J0vKC8' width='100%' height='320px'></iframe>
 
 # Don't wait until programmers <ins>mess</ins> everything up
 
-Hire our high-caliber software engineers, who work for Zerocracy,
+Hire our [high-caliber software engineers](https://www.0crat.com/team)
 for a few hours to get your repositories audited.
 This will protect your project from possible disasters.
+
+<hr/>
+
+{:.wide}
+# We work with most tech stacks
+
+{:.wide}
+[Our experts](https://www.0crat.com/team)
+understand Java, Ruby, JavaScript, PHP, Python and C#.
+If you have something else, we can find the right talents
+to review your project too.
 
 <hr/>
 
@@ -70,13 +69,12 @@ logs, your database, and we review what we see, remotely.
 <hr/>
 
 {:.wide}
-# We work with most tech stacks
+# We sign the NDA before we start
 
 {:.wide}
-[Our experts](https://www.0crat.com/team)
-understand Java, Ruby, JavaScript, PHP, Python and C#.
-If you have something else, we can find the right talents
-to review your project too.
+Each reviewer will sign a Non-Disclosure Agreement with you,
+confirming that all data received during the review
+will be destroyed when the audit is done.
 
 <hr/>
 
@@ -94,11 +92,20 @@ or Bitcoins.
 <hr/>
 
 {:.wide}
-# We sign the NDA before we start
+# Ready to go?
 
 {:.wide}
-Each reviewer will sign a Non-Disclosure Agreement with you,
-confirming that all data received during the review
-will be destroyed when the audit is done.
+Leave your email address here. We will get in touch
+in a few hours to schedule an audit:
 
-<hr/>
+{:.wide}
+<form method="POST" action="https://www.mailanes.com/subscribe?list=58">
+  <input type="hidden" name="source" value="audit.zerocracy.com"/>
+  <input type="hidden" name="referrer" id="referrer" value=""/>
+  <input type="hidden" name="utm_source" id="utm_source" value=""/>
+  <input type="hidden" name="utm_medium" id="utm_medium" value=""/>
+  <input type="hidden" name="utm_campaign" id="utm_campaign" value=""/>
+  <input type="hidden" name="redirect" value="http://audit.zerocracy.com/sent.html"/>
+  <input name='email' placeholder='Your email' type='email' size="25" maxlength="150" />
+  <button type='submit'>Let's Do It</button>
+</form>
