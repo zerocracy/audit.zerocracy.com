@@ -17,7 +17,7 @@ You got an on-going project?
 No matter how much you trust the team and how motivated it is,
 you might regularly [want](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
 to review what they are doing,
-in order to prevent problems earlier.
+in order to [prevent](https://youtu.be/GlBf5-g4nGk) problems earlier.
 
 <hr/>
 
