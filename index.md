@@ -24,7 +24,7 @@ in order to [prevent](https://youtu.be/GlBf5-g4nGk) problems earlier.
 {:.left}
 ![Programmers](/images/people.svg "Programmers")
 
-# Why us? Because:
+# Why us?
 
 First, since all projects in Zerocracy are done by freelancers,
 who are very unpredictable, we know how to fight for quality.
