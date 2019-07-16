@@ -21,6 +21,20 @@ in order to [prevent](https://youtu.be/GlBf5-g4nGk) problems earlier.
 
 <hr/>
 
+{:.left}
+![Programmers](/images/people.svg "Programmers")
+
+# Why us? Because:
+
+First, since all projects in Zerocracy are done by freelancers,
+who are very unpredictable, we know how to fight for quality.
+Second, we've audited over 300 projects already in our
+[Annual Quality Award](https://www.yegor256.com/award.html).
+Third, since we are a multi-project company, we can review
+your artifacts from a fresh perspective.
+
+<hr/>
+
 {:.wide}
 # Do it on a regular basis
 
