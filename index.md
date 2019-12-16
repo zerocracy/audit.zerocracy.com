@@ -3,8 +3,8 @@ layout: default
 title: Tech Audit
 description: |
   Let us review the quality of the source code
-  your software team delivers and let you know
-  what are the most critical issues.
+  your software team delivers and we'll let you know
+  what the most critical issues are.
 ---
 
 {:.right}
@@ -12,10 +12,10 @@ description: |
 
 # Let us audit your software and identify <ins>technical debt</ins>
 
-You are planning to invest in a new startup?
-You got an on-going project?
+Are you planning to invest in a new startup?
+Have you got an on-going project?
 No matter how much you trust the team and how motivated it is,
-you might regularly [want](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
+you may regularly [want](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
 to review what they are doing,
 in order to [prevent](https://youtu.be/GlBf5-g4nGk) problems earlier.
 
@@ -27,7 +27,7 @@ in order to [prevent](https://youtu.be/GlBf5-g4nGk) problems earlier.
 # Why us?
 
 First, since all projects in Zerocracy are done by freelancers,
-who are very unpredictable, we know how to fight for quality.
+who can be very unpredictable, we know how to fight for quality.
 Second, we've audited over 300 projects already in our
 [Annual Quality Award](https://www.yegor256.com/award.html).
 Third, since we are a multi-project company, we can review
@@ -39,11 +39,11 @@ your artifacts from a fresh perspective.
 # Do it on a regular basis
 
 {:.wide}
-Hire [our experts](https://www.0crat.com/team) to provide you
+Hire [our experts](https://www.0crat.com/team) to provide you with
 an <ins>independent opinion</ins> about what your team is doing.
 Our reviewers will tell you what kind of technical issues
-your software product has and what are the <ins>risks</ins> and <ins>threats</ins>
-you should pay attention to.
+your software product has and what the <ins>risks</ins> and <ins>threats</ins>
+are that you should pay attention to.
 
 <hr/>
 
@@ -65,8 +65,8 @@ This will protect your project from possible disasters.
 {:.wide}
 [Our experts](https://www.0crat.com/team)
 understand Java, Ruby, JavaScript, PHP, Python and C#.
-If you have something else, we can find the right talents
-to review your project too.
+If you use something else, we can find the right talents
+to review that project too.
 
 <hr/>
 
@@ -76,7 +76,7 @@ to review your project too.
 # We work <ins>remotely</ins> and never talk to your team
 
 There is no need for us to communicate with your
-programmers, ask any questions, or disturb them anyhow.
+programmers, ask any questions, or disturb them in any way.
 You give us read-only access to your repository, your
 logs, your database, and we review what we see, remotely.
 
@@ -99,9 +99,9 @@ will be destroyed when the audit is done.
 
 There are [three types](http://www.zerocracy.com/audits.html) of audits:
 quick, standard, and detailed. Most probably your project
-needs a standard one, which will give you enough food for thought
+needs a standard audit, which will give you enough food for thought
 and will help your team improve. You pay by PayPal, VISA/MasterCard,
-or Bitcoins.
+or Bitcoin.
 
 <hr/>
 
