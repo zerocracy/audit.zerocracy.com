@@ -1,4 +1,4 @@
-<img src="https://www.0crat.com/svg/logo.svg" width="64px" height="64px"/>
+<img src="https://www.zerocracy.com/logo.svg" width="64px" height="64px"/>
 
 [![Build Status](https://travis-ci.org/zerocracy/audit.zerocracy.com.svg?branch=master)](https://travis-ci.org/zerocracy/audit.zerocracy.com)
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/audit.zerocracy.com)](https://hitsofcode.com/view/github/zerocracy/audit.zerocracy.com)
