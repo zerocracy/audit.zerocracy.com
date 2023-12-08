@@ -1,6 +1,6 @@
 <img src="https://www.zerocracy.com/logo.svg" width="64px" height="64px"/>
 
-[![Build Status](https://travis-ci.org/zerocracy/audit.zerocracy.com.svg?branch=master)](https://travis-ci.org/zerocracy/audit.zerocracy.com)
+[![jekyll](https://github.com/zerocracy/audit.zerocracy.com/actions/workflows/jekyll.yml/badge.svg)](https://github.com/zerocracy/audit.zerocracy.com/actions/workflows/jekyll.yml)
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/audit.zerocracy.com)](https://hitsofcode.com/view/github/zerocracy/audit.zerocracy.com)
 
 See [audit.zerocracy.com](https://audit.zerocracy.com).
